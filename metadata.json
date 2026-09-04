@@ -1,0 +1,6 @@
+{
+  "name": "AlgoMentor",
+  "description": "A DSA learning companion featuring structured topic notes, interactive LeetCode-style practice, and a screen-aware AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
